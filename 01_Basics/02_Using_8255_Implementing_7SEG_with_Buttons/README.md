@@ -5,12 +5,12 @@
 
 ## Input Binary 2
 
-[](img/1.png)
+![](img/1.png)
 
-[](img/2.png)
+![](img/2.png)
 
 ## Input Binary 4
 
-[](img/3.png)
+![](img/3.png)
 
-[](img/4.png)
+![](img/4.png)

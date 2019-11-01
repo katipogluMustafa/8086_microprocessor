@@ -9,8 +9,8 @@
 * Button 7 -> 7SEG g
 * Button 8 -> 7SEG h
 
-[](img/1.png)
+![](img/1.png)
 
-[](img/2.png)
+![](img/2.png)
 
-[](img/3.png)
+![](img/3.png)
