@@ -19,4 +19,4 @@
 
 ## Solution
 
-![](solution2.png)
+![](solution_2.png)
